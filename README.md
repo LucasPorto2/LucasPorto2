@@ -1,5 +1,10 @@
-<h1 align="center">Oi 👋, Eu sou Lucas Porto</h1>
-<h3 align="center">Formado em Matemática Aplicada pela UFRJ. Durante minha graduação estagiei no mercado financeiro, porém ao terminá-la decidi trabalhar com educação. Agora busco uma oportunidade na área de dados para aplicar meus conhecimentos em matemática, estatística e programação.</h3>
+- Buscando uma oportunidade para aplicar meus conhecimentos de matemática, estatística e programação na área de dados.
+
+- Formado em Matemática Aplicada pela UFRJ.
+
+- Atualmente trabalhando como Math Tutor no grupo Somos Educação.
+
+- Experiência de 1 ano trabalhando no Mercado Financeiro na área de Análise de Crédito.
 
 - 💬 Me pergunte sobre **Python, SQL, Tableau, Machine Learning, Deep Learning**
 
