@@ -1,10 +1,10 @@
-- Buscando uma oportunidade para aplicar meus conhecimentos de matemática, estatística e programação na área de dados.
+- Atualmente trabalhando como Credit Risk Analisty Pleno na Midway Riachuelo.
 
 - Formado em Matemática Aplicada pela UFRJ.
 
-- Atualmente trabalhando como Math Tutor no grupo Somos Educação.
+- Experiência de 3 anos trabalhando no grupo SOMOS Educação.
 
-- Experiência de 1 ano trabalhando no Mercado Financeiro na área de Análise de Crédito.
+- Experiência de 1 ano trabalhando no Banco BOCOM BBM na área de Análise de Crédito.
 
 - 💬 Me pergunte sobre **Python, SQL, Tableau, Machine Learning, Deep Learning**
 
